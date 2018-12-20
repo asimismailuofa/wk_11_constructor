@@ -1,0 +1,22 @@
+{
+  "name": "wk_11_constructor",
+  "version": "1.0.0",
+  "description": "Week 11 HW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asimismailuofa/wk_11_constructor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asimismailuofa/wk_11_constructor/issues"
+  },
+  "homepage": "https://github.com/asimismailuofa/wk_11_constructor#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1"
+  }
+}
